@@ -1,5 +1,13 @@
 WoodWorks-Wizard
 
+Implement the following functionalities: 1) Dashboard for David Smith: a) check all incoming request of
+quote and examine their content, responses and status and b) check all orders of work, their
+content and status; c) check all bills of work, their content and status. David Smith should also
+be able to respond to the most recent response of quote and bill. A report of revenue can also
+be generated easily for a particular period. 2) Dashboard for clients: a) check the information
+of quotes, orders and bills. A client should be able to respond to the most recent response
+from David Smith. 3) Dashboard for the administrator root: click to initialize the database
+system and buttons and interfaces for different queries specified below.
 
 
 
